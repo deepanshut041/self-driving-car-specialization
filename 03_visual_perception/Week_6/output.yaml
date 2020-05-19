@@ -1,0 +1,9 @@
+# Replace the bellow cells with the correct output from frame 1 in the Jupyter Notebook.
+plane:
+ [-0.0, 1.0, 0.02, -1.36]
+
+lanes:
+ [[1566.0, 960.0, 671.0, 484.0], [191.0, 960.0, 619.0, 484.0]]
+
+min_distance:
+ [7.01, 9.9]
