@@ -1,5 +1,7 @@
 # Self-Driving Cars Specialization
 
+![Certificate](./LCV9UWM99C95.png)
+
 ## Learn Objects
 
 - Understand the detailed architecture and components of a self-driving car software stack.
